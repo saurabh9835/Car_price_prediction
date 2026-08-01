@@ -2,6 +2,7 @@
 
 This repository contains a data science project for predicting car prices using machine learning. The work is organized primarily as Jupyter Notebooks that walk through data ingestion, exploratory data analysis (EDA), feature engineering, model training, evaluation, and inference.
 
+## Streamlit : https://carpriceprediction-qhqgqwaghetnta78ckdars.streamlit.app/
 ## Table of Contents
 
 - [Project Overview](#project-overview)
